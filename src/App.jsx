@@ -1,18 +1,16 @@
-import { useState } from 'react'
-import './App.css'
-import Card from './Card/Card'
+import "./App.css";
+
+import "./App.css";
+import Form from "./Componentes/Form/Form";
 
 function App() {
-  
-
   return (
-    <div className="App">
-      <h1> Parcial </h1>
-      <form> </form>
-      < Card />
-      
+    <div className="hola">
+      <h1 className="titulo" > Hola! por favor ingresa tu nombre y tu Universidad </h1>
+  
+      <Form />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

@@ -1,0 +1,18 @@
+.respuesta{
+    margin-top: 1%;
+    width: 30%;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right top, #d16ba5, #b467a6, #9663a4, #785f9d, #5b5a92, #44598b, #2e5681, #1b5375, #11536b, #18525f, #235154, #2e4e4b);
+    color: black;
+    border-radius: 2%;
+    text-align: center;
+}
+
+.respuesta1{
+    margin-top: 3%;
+    text-align: center;
+    justify-content: center;
+    
+}
